@@ -23,7 +23,7 @@ I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Informa
 <a href="https://github.com/shwetankverma13"><img src="https://img.shields.io/github/followers/shwetankverma13?style=social"></a>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Competitive Programming-cyan"> <img src="https://img.shields.io/badge/Data Structures And Algorithms-black"> <img src="https://img.shields.io/badge/Deep Learning-red"><img src="https://img.shields.io/badge/Natural Language Processing-yellow">  
+ <img src="https://img.shields.io/badge/Competitive Programming-cyan"> <img src="https://img.shields.io/badge/Data Structures And Algorithms-black"> <img src="https://img.shields.io/badge/Machine Learning-red"><img src="https://img.shields.io/badge/Natural Language Processing-purple">  
 </p>
 <hr>
 <p align="center">
