@@ -5,7 +5,7 @@
 <p align="center">
   A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   
-I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Information Technology](https://https://www.jiit.ac.in)** pursuing CSE. I'm a **Tech Freak 💻 😃** passionate about learning and working with new tech. I do competitive Programming and currently I am trying to have a better grip over my Data Structures And Algorithms. <br/><br/>
+I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Information Technology](https://https://www.jiit.ac.in)** pursuing CSE. I'm a **Tech Freak 💻 😃** passionate about learning and working with new tech. I do competitive Programming and currently I am trying to have a better grip over my Data Structures And Algorithms. Simultaneously, I am working to improve my development skills by exloring more of Data Science and by working on the projects for the same .<br/><br/>
 
 
 <p align="center"><a href="https://www.linkedin.com/in/shwetank-verma-062107188/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://github.com/shwetankverma13"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" height=25></a><a href="https://codeforces.com/profile/coder_terror"><img src="https://img.shields.io/badge/Codeforces-cyan?&style=for-the-badge&logo=Codeforces&logoColor=black" height=25></a><a href="https://www.codechef.com/users/shwetank_verma"><img src="https://img.shields.io/badge/Codechef-brown?&style=for-the-badge&logo=Codechef&logoColor=white" height=25></a>
