@@ -32,6 +32,7 @@ I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Informa
 
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=shwetankverma13&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetankverma13&theme=react&line_height=27&layout=compact" />
 </p>
 
 
