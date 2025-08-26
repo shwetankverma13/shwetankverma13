@@ -5,11 +5,21 @@
 <p align="center">
   A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   
-I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Information Technology](https://https://www.jiit.ac.in)** pursuing CSE. I'm a **Tech Freak 💻 😃** passionate about learning and working with new tech. I do competitive Programming and currently I am trying to have a better grip over my Data Structures And Algorithms. Simultaneously, I am working to improve my development skills by exloring more of Data Science and by working on the projects for the same .<br/><br/>
-
-
-<p align="center"><a href="https://www.linkedin.com/in/shwetank-verma-062107188/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://github.com/shwetankverma13"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" height=25></a><a href="https://codeforces.com/profile/coder_terror"><img src="https://img.shields.io/badge/Codeforces-cyan?&style=for-the-badge&logo=Codeforces&logoColor=black" height=25></a><a href="https://www.codechef.com/users/shwetank_verma"><img src="https://img.shields.io/badge/Codechef-brown?&style=for-the-badge&logo=Codechef&logoColor=white" height=25></a>
+I'm a **Software Engineer 💻 at [Infra.Market](https://inframarket.in)** with 2+ years of experience building scalable web and mobile applications. I'm a **Full-Stack Developer 🚀** passionate about React.js, React Native, and Node.js. I love solving complex problems, mentoring developers, and building products that serve 100K+ users. Currently exploring microservices architecture and leading frontend initiatives.<br/><br/>
+<p align="center"><a href="https://www.linkedin.com/in/shwetank-verma-062107188/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://github.com/shwetankverma13"><img src="http://img.shields.io/badge/-Github-black?style=flat-square&logo=github" height=25></a><a href="https://leetcode.com/shwetankverma"><img src="https://img.shields.io/badge/LeetCode-orange?&style=for-the-badge&logo=LeetCode&logoColor=white" height=25></a><a href="https://codeforces.com/profile/coder_terror"><img src="https://img.shields.io/badge/Codeforces-cyan?&style=for-the-badge&logo=Codeforces&logoColor=black" height=25></a>
 </p>
+
+## 🚀 What I Do
+- **Frontend**: React.js, React Native, TypeScript, Redux
+- **Backend**: Node.js, BFF Architecture, REST APIs, GraphQL 
+- **Mobile**: Cross-platform apps serving 1+ lakh users
+- **DevOps**: Docker, AWS, CI/CD, Microservices
+
+## 🏆 Recent Achievements
+- **HotShot Demo Award** at IMHAX 2025 hackathon
+- Built component library adopted across **5+ teams**, reducing dev time by **35%**
+- Led application redesign improving customer satisfaction by **20%**
+- Mentored junior developers, boosting team productivity by **25%**
 
 <p align=center>
   <a href="https://github.com/shwetankverma13">
@@ -23,20 +33,13 @@ I'm a **Computer Science Engineering Student🎓 at [Jaypee Institute Of Informa
 <a href="https://github.com/shwetankverma13"><img src="https://img.shields.io/github/followers/shwetankverma13?style=social"></a>
 </p>
 <p align="center">
- <img src="https://img.shields.io/badge/Competitive Programming-blue"> <img src="https://img.shields.io/badge/Data Structures And Algorithms-black"> <img src="https://img.shields.io/badge/Machine Learning-red"><img src="https://img.shields.io/badge/Natural Language Processing-purple">  
+ <img src="https://img.shields.io/badge/Full Stack Development-blue"> <img src="https://img.shields.io/badge/Mobile Development-green"> <img src="https://img.shields.io/badge/Microservices-red"><img src="https://img.shields.io/badge/Team Leadership-purple">  
 </p>
 <hr>
 <p align="center">
-<img src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-
 <p align=center>  
   <img align=center src="https://github-readme-stats.vercel.app/api?username=shwetankverma13&show_icons=true&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwetankverma13&theme=react&line_height=27&layout=compact" />
 </p>
-
-
-
-
-
-
