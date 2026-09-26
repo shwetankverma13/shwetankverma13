@@ -10,7 +10,7 @@ Software Engineer (SDE 2, Web Platform) at **Zomato**, Gurugram. I build merchan
 - Sole frontend owner of the **Menu Dashboard** that restaurants use to manage their digital menus. Shipped an OCR-to-draft menu flow across React, a Go microservice and the PHP monolith, replacing manual re-entry from spreadsheets.
 - Built and rolled out **Bulk Editor V2** with staged allowlisting, and retired the legacy menu tool.
 - Built a **face-recognition check-in kiosk** in React Native with an in-house scanning SDK (ML Kit, frame processing in native worklets, a 60fps Skia overlay, blink-based liveness checks).
-- Built **Butterfly**, an internal config-management dashboard with DAG visualisation (React Flow), versioning and environment switching, plus its CI, gateway and auth setup.
+- Built an **internal config-management dashboard** with DAG visualisation (React Flow), versioning and environment switching, plus its CI, gateway and auth setup.
 - Brought LCP into Google's "good" range and moved three frontend repos to pnpm and Node 20.
 
 #### Previously · Infra.Market (2023–2025)
