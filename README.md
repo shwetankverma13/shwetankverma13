@@ -2,7 +2,7 @@
 
 Software Engineer (SDE 2, Web Platform) at **Zomato**, Gurugram. I build merchant-facing products end to end, from React and React Native frontends to the Go services behind them, with a focus on performance, design systems and developer tooling.
 
-[LinkedIn](https://www.linkedin.com/in/shwetank-verma-062107188/) · [LeetCode](https://leetcode.com/shwetankverma) · [Codeforces](https://codeforces.com/profile/coder_terror)
+[LinkedIn](https://www.linkedin.com/in/shwetank-verma-062107188/)
 
 ---
 
